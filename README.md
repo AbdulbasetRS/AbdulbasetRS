@@ -18,7 +18,7 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 - **Frameworks:** Laravel  
 - **Databases:** MySQL  
 - **Tools & Platforms:** Git, Composer, Postman  
-- **Other Skills:** API Development, Payment Gateway Integration (Paymob), SOLID Principles  
+- **Other Skills:** API Development, SOLID Principles  
 
 ---
 
@@ -29,6 +29,35 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 - **[Response Format for Laravel](https://github.com/AbdulbasetRS/Response-Format-Trait):**  
   A PHP package for standardizing and formatting API and web responses.
   
+---
+
+# GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=radical)
+
+# Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=radical)
+
+# Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulbasetRS&theme=radical)
+
+# Activity Graph
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdulbasetRS&theme=radical)
+
+# Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=radical&no-bg=true)
+
+# Visitors Count
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=AbdulbasetRS.AbdulbasetRS)
+
+# Contribution Snake
+![Contribution Snake](https://github.com/AbdulbasetRS/AbdulbasetRS/blob/output/github-contribution-grid-snake.svg)
+
+# Achievements
+![Achievements](https://github-profile-achievements.vercel.app/api/?username=AbdulbasetRS)
+
+# Dynamic Quotes
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 ---
 
 ## 📫 Let's Connect!
@@ -47,26 +76,18 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 
 ---
 
-## Donations 💖
-Maintaining this package takes time and effort. If you’d like to support its development and keep it growing, you can:
+## 🙌 Support My Work
+If you find my work helpful and want to support my open-source contributions, consider buying me a coffee or making a donation. Your support means a lot! ❤️
 
-- 🌟 Star this repository
-- 📢 Sharing it with others
-- 🛠️ Contribute by reporting issues or suggesting features
 - ☕ [Buy me a coffee](https://buymeacoffee.com/abdulbaset)
 - ❤️ Become a sponsor on [GitHub Sponsors](https://github.com/sponsors/AbdulbasetRS)
 - 💵 Make a one-time donation via [PayPal](https://paypal.me/abdulbasetrs)
 
-Your support means a lot to me! Thank you for making this possible. 🙏
+Thank you for your generosity and encouragement! 
 
 ---
 
 ## 🙏 Acknowledgements
 Thanks for stopping by! Feel free to explore my repositories, give feedback, or connect with me for collaborations. 🌟
-<!--
----
 
-## 📈 GitHub Stats
-![Abdulbaset's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulbaset&show_icons=true&theme=radical)
 
--->
