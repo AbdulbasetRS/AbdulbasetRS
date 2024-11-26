@@ -34,11 +34,6 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 
 ---
 
-## 📈 GitHub Stats
-![Abdulbaset's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulbaset&show_icons=true&theme=radical)
-
----
-
 ## 📫 Let's Connect!
 - **Email:** [AbdulbasetRedaSayedHF@gmail.com](mailto:AbdulbasetRedaSayedHF@gmail.com)  
 - **LinkedIn:** [Abdulbaset R. Sayed](https://www.linkedin.com/in/abdulbaset-r-sayed)  
@@ -70,3 +65,10 @@ Your support means a lot to me! Thank you for making this possible. 🙏
 
 ## 🙏 Acknowledgements
 Thanks for stopping by! Feel free to explore my repositories, give feedback, or connect with me for collaborations. 🌟
+<!--
+---
+
+## 📈 GitHub Stats
+![Abdulbaset's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdulbaset&show_icons=true&theme=radical)
+
+-->
