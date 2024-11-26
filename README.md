@@ -32,9 +32,9 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 ---
 
 # GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark)-->
 
