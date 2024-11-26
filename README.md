@@ -32,20 +32,20 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 ---
 
 # GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark)
 
 # Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=dark)
 
 # Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulbasetRS&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulbasetRS&theme=dark)
 
 # Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=radical&no-bg=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=dark&no-bg=true)
 
 <!--
 # Activity Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdulbasetRS&theme=radical)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdulbasetRS&theme=dark)
 
 # Visitors Count
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AbdulbasetRS.AbdulbasetRS)
@@ -57,7 +57,7 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 ![Achievements](https://github-profile-achievements.vercel.app/api/?username=AbdulbasetRS)
 
 # Dynamic Quotes
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 -->
 ---
 
