@@ -40,11 +40,12 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 # Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulbasetRS&theme=radical)
 
-# Activity Graph
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdulbasetRS&theme=radical)
-
 # Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=radical&no-bg=true)
+
+<!--
+# Activity Graph
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdulbasetRS&theme=radical)
 
 # Visitors Count
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=AbdulbasetRS.AbdulbasetRS)
@@ -57,7 +58,7 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 
 # Dynamic Quotes
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+-->
 ---
 
 ## 📫 Let's Connect!
