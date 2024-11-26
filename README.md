@@ -23,21 +23,19 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 ---
 
 ## 🔗 Featured Projects
-- **[Payment Gateways Integration Package](https://github.com/abdulbaset/payment-gateways-integration):**  
-  Unified API for multiple payment gateways (Paymob and Stripe), with validation, testing, and custom exception handling.
+- **[Zoom Integration Package](https://github.com/AbdulbasetRS/Zoom-Integration):**
+  This package provides an easy integration with Zoom's API, allowing developers to manage users, meetings, and more.
 
-- **[Activity Tracker for Laravel](https://github.com/abdulbaset/activity-tracker):**  
-  A Laravel package for tracking and logging all user activities (routes, models, exceptions, etc.).
-
-- **[My Portfolio](https://github.com/abdulbaset/portfolio):**  
-  A personal portfolio website to showcase my work and skills.
-
+- **[Response Format for Laravel](https://github.com/AbdulbasetRS/Response-Format-Trait):**  
+  A PHP package for standardizing and formatting API and web responses.
+  
 ---
 
 ## 📫 Let's Connect!
 - **Email:** [AbdulbasetRedaSayedHF@gmail.com](mailto:AbdulbasetRedaSayedHF@gmail.com)  
 - **LinkedIn:** [Abdulbaset R. Sayed](https://www.linkedin.com/in/abdulbaset-r-sayed)  
 - **Instagram:** [@abdulbaset_rs](https://www.instagram.com/abdulbaset_rs/)  
+- **Facebook:** [Abdulbaset R. Sayed](https://www.facebook.com/AbdulBasetRedaSayed/)  
 - **Twitter:** [@AbdulBasetRS](https://x.com/AbdulBasetRS)
 
 ---
