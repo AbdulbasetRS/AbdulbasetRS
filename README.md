@@ -50,7 +50,7 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 
 # Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=dark&no-bg=true" alt="GitHub Stats" style="width: 100%;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=ambient_gradient&no-bg=true" alt="GitHub Stats" style="width: 100%;" />
 </div>
 
 <!--
