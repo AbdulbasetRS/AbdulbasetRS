@@ -31,22 +31,19 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
   
 ---
 
+---
+
 # GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 100%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 48%; display: inline-block; margin-right: 4%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=dark" alt="Top Languages" style="width: 48%; display: inline-block;" />
 </div>
 
-
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark)-->
-
-# Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=dark)
-
 # Streak Stats
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdulbasetRS&theme=dark)
-
-# Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=dark&no-bg=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulbasetRS&theme=dark" alt="GitHub Streak" style="width: 48%; display: inline-block; margin-right: 4%;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=dark&no-bg=true" alt="Trophies" style="width: 48%; display: inline-block;" />
+</div>
 
 <!--
 # Activity Graph
