@@ -32,7 +32,8 @@ a passionate Laravel Backend Developer 🚀. I love creating packages, solving p
 ---
 
 <details>
-  <summary># ⚡ GitHub Stats</summary>
+  # ⚡ GitHub Stats
+ 
   
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
