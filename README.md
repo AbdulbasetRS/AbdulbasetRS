@@ -33,6 +33,14 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 
 ---
 
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+</details>
+
+<!--
 # GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 100%;" />
@@ -53,7 +61,6 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulbasetRS&theme=ambient_gradient&no-bg=true" alt="GitHub Stats" style="width: 100%;" />
 </div>
 
-<!--
 # Activity Graph
 ![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AbdulbasetRS&theme=dark)
 
