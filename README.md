@@ -22,24 +22,25 @@ a passionate Laravel Backend Developer 🚀. I love creating packages, solving p
 
 ---
 
+<details>
+  <summary>⚡ GitHub Stats</summary>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
+</details>
+
+---
+
 ## 🔗 Featured Projects
 - **[Zoom Integration Package](https://github.com/AbdulbasetRS/Zoom-Integration):**
   This package provides an easy integration with Zoom's API, allowing developers to manage users, meetings, and more.
 
 - **[Response Format for Laravel](https://github.com/AbdulbasetRS/Response-Format-Trait):**  
   A PHP package for standardizing and formatting API and web responses.
-  
----
-
-<details>
-  # ⚡ GitHub Stats
- 
-  
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
-  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
-</details>
 
 <!--
+
+---
+
 # GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&show_icons=true&theme=dark" alt="GitHub Stats" style="width: 100%;" />
