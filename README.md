@@ -36,7 +36,7 @@ I'm Abdulbaset, a passionate Laravel Backend Developer 🚀. I love creating pac
 <details>
   <summary>Github Stats ⚡</summary>
   
-  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&theme=dark&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=AbdulbasetRS&theme=dark&count_private=true&hide_border=true&line_height=30)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulbasetRS&layout=compact&theme=dark&count_private=true&hide_border=true)</a>
 </details>
 
