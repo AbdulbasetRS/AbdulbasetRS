@@ -32,6 +32,9 @@ a passionate Laravel Backend Developer 🚀. I love creating packages, solving p
 ---
 
 ## 🔗 Featured Projects
+- **[Payment Gateways Integration Package](https://github.com/AbdulbasetRS/Payment-Gateways-Integration):**
+  A PHP package for seamless integration with various payment gateways, providing a unified API for processing payments across multiple platforms.
+  
 - **[Zoom Integration Package](https://github.com/AbdulbasetRS/Zoom-Integration):**
   This package provides an easy integration with Zoom's API, allowing developers to manage users, meetings, and more.
 
