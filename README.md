@@ -1,7 +1,9 @@
 # 👋 Hi there, I'm Abdulbaset! 
 
 ### 🚀 Laravel Backend Developer | Open-Source Enthusiast | Problem Solver
-a passionate Laravel Backend Developer 🚀. I love creating packages, solving problems, and contributing to the developer community.
+I’m a passionate backend developer with a strong focus on PHP and the Laravel framework.
+I excel at building scalable, efficient, and secure web applications, crafting APIs, and optimizing database performance.
+My expertise lies in solving complex technical challenges, writing clean, maintainable code, and implementing best practices to deliver high-quality solutions.
 
 ---
 
