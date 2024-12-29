@@ -93,7 +93,7 @@ My expertise lies in solving complex technical challenges, writing clean, mainta
 
 ---
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 - 🔧 Develop more Laravel open-source packages.  
 - 📖 Share technical knowledge through blogs and LinkedIn posts.  
 - 🤝 Contribute to large-scale open-source projects.  
