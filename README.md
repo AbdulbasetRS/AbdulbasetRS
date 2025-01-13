@@ -39,7 +39,10 @@ My expertise lies in solving complex technical challenges, writing clean, mainta
   
 - **[Zoom Integration Package](https://github.com/AbdulbasetRS/Zoom-Integration):**  
   This package provides an easy integration with Zoom's API, allowing developers to manage users, meetings, and more.
-
+  
+- **[Activity Tracker Package](https://github.com/AbdulbasetRS/Activity-Tracker):**  
+  A comprehensive activity tracking package for Laravel applications that logs various types of activities including authentication events, model changes, exceptions, route access, and database queries.
+  
 - **[Response Format for Laravel](https://github.com/AbdulbasetRS/Response-Format-Trait):**  
   A PHP package for standardizing and formatting API and web responses.
 
