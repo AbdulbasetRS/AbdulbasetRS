@@ -11,8 +11,14 @@ My expertise lies in solving complex technical challenges, writing clean, mainta
   <img src="https://komarev.com/ghpvc/?username=AbdulbasetRS&color=4010B0" height="30"/>
 </p>
 
-  ![Followers](https://img.shields.io/github/followers/AbdulbasetRS?style=social)
-
+![Followers](https://img.shields.io/github/followers/AbdulbasetRS?style=social)
+![Stars](https://img.shields.io/github/stars/AbdulbasetRS?style=social)
+![Profile Picture](https://avatars.githubusercontent.com/AbdulbasetRS?size=100)
+![Gists](https://img.shields.io/github/gists/AbdulbasetRS)
+![Recent Activity](https://img.shields.io/github/last-commit/AbdulbasetRS)
+![Contributions](https://img.shields.io/github/commit-activity/m/AbdulbasetRS)
+![Repositories](https://img.shields.io/github/repos/AbdulbasetRS?style=social)
+![Releases](https://img.shields.io/github/releases/AbdulbasetRS?style=flat-square)
 
 ---
 
