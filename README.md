@@ -16,7 +16,7 @@ My expertise lies in solving complex technical challenges, writing clean, mainta
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** PHP, JavaScript, SQL  
+- **Languages:** PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white), JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), SQL ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 - **Frameworks:** Laravel  
 - **Databases:** MySQL  
 - **Tools & Platforms:** Git, Composer, Postman  
