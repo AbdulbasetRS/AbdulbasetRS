@@ -16,26 +16,17 @@ My expertise lies in solving complex technical challenges, writing clean, mainta
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** PHP ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white), JavaScript ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black), SQL ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
-- **Frameworks:** Laravel  
-- **Databases:** MySQL  
-- **Tools & Platforms:** Git, Composer, Postman  
-- **Other Skills:** API Development, SOLID Principles  
+- **Languages:** ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white), ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+- **Frameworks:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+- **Databases:** ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+- **Tools & Platforms:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=github&logoColor=white), ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white), ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+- **Other Skills:** ![API](https://img.shields.io/badge/API-25A3E5?style=flat-square&logo=api&logoColor=white), ![SOLID](https://img.shields.io/badge/SOLID-0A74DA?style=flat-square&logo=solid&logoColor=white)
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-![API](https://img.shields.io/badge/API-25A3E5?style=flat-square&logo=api&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID-0A74DA?style=flat-square&logo=solid&logoColor=white)
+
 
 ---
 
