@@ -45,6 +45,9 @@ My expertise lies in solving complex technical challenges, writing clean, mainta
 - **[Activity Tracker Package](https://github.com/AbdulbasetRS/Activity-Tracker):**  
   A comprehensive activity tracking package for Laravel applications that logs various types of activities including authentication events, model changes, exceptions, route access, and database queries.
   
+- **[Convert Numbers Package](https://github.com/AbdulbasetRS/Convert-Numbers):**  
+  A PHP package to convert numbers to words and currencies in multiple languages
+
 - **[Response Format for Laravel](https://github.com/AbdulbasetRS/Response-Format-Trait):**  
   A PHP package for standardizing and formatting API and web responses.
 
