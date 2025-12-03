@@ -40,10 +40,10 @@ My expertise lies in solving complex technical challenges, writing clean, mainta
   A PHP package for seamless integration with various payment gateways, providing a unified API for processing payments across multiple platforms.
   
 - **[Zoom Integration Package](https://github.com/AbdulbasetRS/Zoom-Integration):**  
-  A simple and flexible Laravel package for managing roles and permissions with ease.
+    This package provides an easy integration with Zoom's API, allowing developers to manage users, meetings, and more.
   
 - **[Laravel Accessify](https://github.com/AbdulbasetRS/Laravel-Accessify):**  
-  This package provides an easy integration with Zoom's API, allowing developers to manage users, meetings, and more.
+  A simple and flexible Laravel package for managing roles and permissions with ease.
   
 - **[Activity Tracker Package](https://github.com/AbdulbasetRS/Activity-Tracker):**  
   A comprehensive activity tracking package for Laravel applications that logs various types of activities including authentication events, model changes, exceptions, route access, and database queries.
